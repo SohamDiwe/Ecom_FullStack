@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ecom-7811f.web.app)
 
-A modern, fully responsive e-commerce web application built with **React + Vite**, featuring product listings, cart management, checkout flow, and mobile-first design.
+A modern, fully responsive e-commerce(FULL STACK) web application built with **React + Vite**, featuring product listings, cart management, checkout flow, and mobile-first design.
 
 ## 🌐 Live Demo
 👉 https://ecom-7811f.web.app
