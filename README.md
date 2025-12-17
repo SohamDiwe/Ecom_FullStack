@@ -39,6 +39,17 @@ A modern, fully responsive e-commerce web application built with **React + Vite*
 - ⚡ **Fast Performance**
   - Built with Vite for fast development and builds
   - Optimized images and components
+ 
+  -
+  ✉️ Email Notifications (EmailJS)
+
+Order confirmation emails
+
+Contact / support form integration
+
+No backend required
+
+Fully client-side email handling
 
 ---
 
